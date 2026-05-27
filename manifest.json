@@ -2,7 +2,7 @@
   "name": "AIGP Study Script",
   "short_name": "AIGP",
   "description": "IAPP AI Governance Professional — Domains 1 & 2 Study Script",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
