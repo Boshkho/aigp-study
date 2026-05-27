@@ -1,0 +1,26 @@
+{
+  "name": "AIGP Study Script",
+  "short_name": "AIGP",
+  "description": "IAPP AI Governance Professional — Domains 1 & 2 Study Script",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f1e6",
+  "theme_color": "#6b1f1f",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "en"
+}
